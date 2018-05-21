@@ -85,7 +85,7 @@ $ js2esi -w sample.js
 
 ## Javascript 'lite' language
 
-The lexical parser is intended to be javascript compatible. However, it isn't very sophisticaed because of some of the underlying limitations of ESI. 
+The lexical parser is intended to be javascript compatible. However, it isn't very sophisticated because of some of the underlying limitations of ESI. 
 
 The following syntax guide shows how to construct js code that compile nicely to ESI.
 
